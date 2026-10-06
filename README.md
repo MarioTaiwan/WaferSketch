@@ -2,6 +2,9 @@
 
 WaferSketch is a mask-to-wafer fabrication design validator built around one shared **material voxel state**. Lithography is assumed to transfer a DXF/GDS mask faithfully into photoresist. Etching, deposition, masking, lift-off and inspection all operate on the same material state.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1541ebd-10c2-4199-8e24-9a888591948a" />
+
+
 ## Main changes in 1.3
 
 ### 1. Adaptive Z sampling
